@@ -4,14 +4,14 @@
 
 <div align="center">
 
-🌐 Modular · 🔁 Reversible · 🔍 Transparent · ⚙️ Automated · 🧩 Structured
+Modular · Reversible · Transparent · Automated · Structured
 
 </div>
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [STANDART Methodology](#standart-methodology)
-  - [📌 Table of Contents](#-table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Core Idea](#core-idea)
   - [Principles](#principles)
